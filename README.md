@@ -1,4 +1,4 @@
-- 👋 Olá, Meu no é Gabriel Moreira
+- 👋 Olá, Meu nome é Gabriel Moreira
 - 👀 Estou interessado em tudo que da para fazer com o Python
 - 🌱 Atualmente estou aprendendo todas as funcionalidades do python
 - 📫 Como chegar até mim: Email-gabrielms00777@gmail.com
