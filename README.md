@@ -1,5 +1,5 @@
 - 👋 Olá, Meu nome é Gabriel Moreira
-- 👀 Estou estudando tudo que da para fazer com Python
+- 👀 Estudando para me tornar um desenvolvedor Back-end e empreendedor 
 - 📫 Como chegar até mim: Email-gabrielms00777@gmail.com
 
 <!---
